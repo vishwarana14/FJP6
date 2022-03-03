@@ -1,0 +1,28 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px; 
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type:none;
+    font-size: x-large;
+}
+ nav{
+    width: 60vw;
+    margin-top:10px; 
+} 
+.class1
+{
+     margin: 1rem; 
+     width :90vw
+}  
+.class2
+{
+    display: flex;
+    text-align: center;
+}
+.class2>div>p{
+    font-size: x-large;
+}
